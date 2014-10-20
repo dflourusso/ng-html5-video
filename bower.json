@@ -1,0 +1,30 @@
+{
+  "name": "ng-html5-video",
+  "version": "0.1.0",
+  "license": "public",
+  "homepage": "http://www.paliari.com.br/",
+  "private": true,
+  "description": "Player de vídeo com Html5. Controllers customizados",
+  "keywords": [
+    "video",
+    "player",
+    "angularjs",
+    "html5"
+  ],
+  "main": [
+    "./dist/ng-html5-video.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Daniel Fernando Lourusso <dflourusso@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": "1.2.23"
+  }
+}
